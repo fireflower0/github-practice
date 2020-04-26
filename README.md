@@ -1,9 +1,3 @@
 # github-practice
 
-GitHub練習用リポジトリ
-
-## Foo
-
-### Bar
-
-#### Baz
+A repository for GitHub practice
