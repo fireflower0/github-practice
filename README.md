@@ -1,3 +1,1 @@
 # github-practice
-
-foo bar
